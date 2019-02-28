@@ -24,5 +24,4 @@ function createCircle(radius){
 }
 
 const creacteCricle = createCircle(1);
-console.log(creacteCricle);
 creacteCricle.draw();
